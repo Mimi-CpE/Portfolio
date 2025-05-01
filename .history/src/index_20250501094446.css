@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+
+@theme {
+    --color-border: hsl(var(--border));
+    --color-background: hsl(var(--background));
+    --color-foreground: hsl(var(--border));
+
+    --color-primary: hsl(var(--border));
+    --color-secondary: hsl(var(--border));
+}
+
